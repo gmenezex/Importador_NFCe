@@ -27,3 +27,8 @@ O projeto foi construído utilizando Python e destaca-se pelo uso das seguintes 
 
 Se você for executar o projeto diretamente pelo código-fonte, precisará do **Python 3.10+** instalado e das dependências listadas requirements.txt.
 
+## Vídeo de uso do programa:
+
+
+https://github.com/user-attachments/assets/c692db5c-e24c-4699-b584-9de3080a18fa
+
